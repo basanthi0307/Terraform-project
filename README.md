@@ -1,3 +1,4 @@
+<img width="996" height="716" alt="AWS Terraform Infra" src="https://github.com/user-attachments/assets/ddb0eea5-aee8-457e-89e3-2519be3f536c" />
 
 # Terraform AWS ALB Project
 
